@@ -6,4 +6,3 @@ print('hello world')
 
 ***
 * new changes
-* test
